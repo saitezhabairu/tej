@@ -1,0 +1,8 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1732211719" />
+    <testcase name="xor_gate_test_001" classname="xor_test" file="/home/teja/cocotb/venv/lib/python3.12/site-packages/cocotb/regression.py" lineno="727" time="0.00010395050048828125" sim_time_ns="0.001" ratio_time="9.619963302752295">
+      <failure message="Test failed with RANDOM_SEED=1732211719" />
+    </testcase>
+  </testsuite>
+</testsuites>

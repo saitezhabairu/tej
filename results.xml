@@ -1,0 +1,6 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1733203286" />
+    <testcase name="test_gpib_protocol" classname="gpib_test" file="/home/teja/cocotb/gpib_test.py" lineno="33" time="0.0012731552124023438" sim_time_ns="110.001" ratio_time="86400.30604943821" />
+  </testsuite>
+</testsuites>
